@@ -1,6 +1,6 @@
 local
     fun indexOf([], _) = ~1
-      | indexOf(head :: tail, target) = 
+      | indexOf((head : int) :: tail, target : int) = 
             let 
                 val indexInTail = indexOf(tail, target)
             in
