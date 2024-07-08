@@ -1,0 +1,1 @@
+(* Escreva uma função que recebe um inteiro n e cria uma lista com os n primeiros números perfeitos *)
